@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-section {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0);
+    height: 60px;
+}
+
+.logo {
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.select {
+    position: relative;
+    left: 21px;
+    top: -4px;
+    cursor: pointer;
+}
+
+.hello {
+    position: relative;
+    top: -9px;
+    left: 1px;
+    color: white;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.Address {
+    position: relative;
+    top: 11px;
+    left: -41px;
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.fa-location-dot {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.search {
+    position: absolute;
+    left: 350px;
+    padding-right: 500px;
+
+}
+
+.btn-outline-success {
+    position: absolute;
+    top: 11px;
+    left: 64.1%;
+    background: #ab7209;
+    color: white;
+}
+
+.Categories {
+    height: 37px;
+    width: 46px;
+    border-radius: 5px;
+    position: relative;
+    left: -1px;
+}
+
+.flag-logo {
+    position: absolute;
+    left: 70%;
+    top: 18px;
+    height: 22px;
+    width: 17px;
+}
+
+.cuntry-name {
+    color: white;
+    position: absolute;
+    left: 1095px;
+    bottom: 21px;
+}
+
+.downarrow {
+    color: aliceblue;
+    position: absolute;
+    left: 1119px;
+    font-size: 14px;
+    top: 22px;
+}
+
+.login {
+    position: absolute;
+    left: 75%;
+}
+
+.return {
+    position: absolute;
+    left: 85%;
+}
+
+.shop {
+    font-size: 32px;
+}
+
+.delivery {
+    position: absolute;
+    left: 92%;
+}
+
+.container-fluid-2 {
+    background: rgb(39, 35, 35);
+    height: 50px;
+}
+
+.details {
+    color: aliceblue;
+    display: inline-block;
+}
+
+.details-show {
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.details-show:hover {
+    color: aquamarine;
+}
+
+.carousel-item {
+    height: 70vh;
+}
+
+.image-size {
+    height: 150px;
+    width: 120px;
+}
+
+.amaippu-avlotha {
+    background-color: rgb(239, 239, 239);
+    width: 200px;
+
+}
+
+.imgage-2 {
+    width: 280px;
+    height: 350px;
+}
+
+.image-menu {
+    width: 200px;
+    height: 200px;
+}
+
+.sign {
+    margin-left: 423px;
+}
+
+.button {
+    margin-left: 48px;
+    padding: 8px;
+    padding-left: 47px;
+    padding-right: 52px;
+    background: #ab7209;
+    border-radius: 6px;
+
+}
+
+.back-top {
+    background-color: rgb(35, 34, 34);
+    height: 50px;
+}
+.bow{
+    text-align: center;
+    margin-top: 10px;
+    display: inline-block;
+}
+.container-last{
+    background-color: rgb(59, 56, 56);
+    height: 35vh;
+}
+.one{
+
+    position: relative;
+    top: 20px;
+    margin-left: 30px;
+}
+.details-about-final{
+    text-decoration: none;
+    color: rgb(157, 192, 202);
+    font-size: 15px;
+    list-style: none;
+}
+.last-image{
+    background-color: black;
+    height: 30vh;
+}
+.logo-last{
+    height: 66px;
+    width: 115px;
+    cursor: pointer;
+    position: relative;
+    margin-left: 550px;
+    top: 68px;
+}
+.last-icon{
+    position: relative;
+    margin-left: 715px;
+}
+.icon{
+    color: aliceblue;
+    font-size: 20px;
+}
+.english{
+    width: 100px;
+}
+.cuntry-last{
+    display: inline-block;
+    list-style: none;
+}
+.nav_a{
+    color: aliceblue;
+    margin-left: 20px;
+    text-decoration: none;
+    position: relative;
+    top: 50px;
+
+}
